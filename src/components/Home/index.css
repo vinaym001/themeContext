@@ -1,0 +1,26 @@
+.home-container {
+  height: 100vh;
+  width: 100vw;
+}
+.img-container {
+  text-align: center;
+  margin-top: 60px;
+}
+.home {
+  width: 15%;
+}
+.heading {
+  color: #171f46;
+  font-family: 'roboto';
+  font-size: 40px;
+}
+.heading-dark {
+  color: #f8fafc;
+  font-family: 'roboto';
+  font-size: 40px;
+}
+.home-container-dark {
+  height: 100vh;
+  width: 100vw;
+  background-color: #333333;
+}
